@@ -1,0 +1,20 @@
+{
+  "name": "contatooh",
+  "version": "1.0.0",
+  "description": "Projeto de estudo sobre a MEAN stack",
+  "repository": {
+    "type": "git",
+    "url": "github.com/arthuchaves27/meanStack"
+  },
+  "license": "ISC",
+  "author": "Arthur Chaves",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
